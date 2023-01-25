@@ -1,0 +1,260 @@
+[
+    {
+        "header_img": "plominode.png",
+        "name": "Plominode",
+        "url": "expowertechnology.pythonanywhere.com",
+        "client": "Exfac Inc.",
+        "category": "Web",
+        "previews": ["plominode.png", "plominode_1.png", "plominode_2.png"],
+        "slug": "plominode",
+        "date": "12 August, 2021",
+        "description": "Plominode is a Unique Award-Winning all in one Game Show Series, which is also known as 'THE SMARTEST GAME SHOW SERIES' (S.G.S.S). Whereby the Smartest can Double and Increase their Cash Prize with each Point they obtain in each Episode and Win a Cash Price up to a Million Dollars or More base on the Total Number of Smartest in every Season."
+    },
+    {
+        "header_img": "ajp.png",
+        "name": "Adewale Joshua Portfolio",
+        "url": "www.adewalejoshua.tech",
+        "client": "OTechCup",
+        "category": "Web",
+        "previews": ["ajp.png", "ajp_1.png"],
+        "slug": "ajp",
+        "date": "12 January, 2023",
+        "description": "OTechCup is a community"
+    },
+    {
+        "header_img": "ciism.png",
+        "name": "Chartered Institute of Information and Strategy Management",
+        "url": "www.ciism.com",
+        "client": "CIISM",
+        "category": "Web",
+        "previews": [
+            "ciism.png", "ciism_1.png", "ciism_2.png", "ciism_3.png", 
+            "ciism_4.png", "ciism_5.png"
+        ],
+        "slug": "ciism",
+        "date": "26 April, 2021",
+        "description": "CIISM is an institute that upholds the value of integrity, professionalism, best practice, objectivity, accountability, discipline, leadership, transparency, competency, selflessness as we equipping our members with the highest international standards, knowledge, and capacity building that enhance them to gain competitive advantage in information and strategic management."
+    },
+    {
+        "header_img": "aem.png",
+        "name": "Antrim Electrical & Mechanical Engineers Ltd",
+        "url": "www.aem.phoenixitng.com",
+        "client": "AEM",
+        "category": "Web",
+        "previews": [
+            "aem.png", "aem_1.png", "aem_2.png", "aem_3.png", "aem_4.png"
+        ],
+        "slug": "aem",
+        "date": "16 December, 2022",
+        "description": "Antrim Electrical & Mechanical Engineers Ltd was established in 1985 and is ranked as one of Irelands foremost Electrical and Mechanical Building services and Facility Management Contractors."
+    },
+    {
+        "header_img": "exfac_logo.png",
+        "name": "Exfac Logo",
+        "url": "www.exfac.info",
+        "client": "Exfac Inc.",
+        "category": "Logo",
+        "previews": ["exfac_logo_1.png", "exfac_logo.png"],
+        "slug": "exfac-logo",
+        "date": "27 October, 2022",
+        "description": "Exfac is an emerging data technology based company that uses and develops technological products that use Big Data Analysis, Artificial Intelligence, Machine Learning algorithms and all other data technology algorithms to improve the economic and financial system by developing powerful strategic data ecosystem to improve standard of living Globally."
+    },
+    {
+        "header_img": "ciism_logo.png",
+        "name": "Chartered Institute of Information and Strategy Management Logo",
+        "url": "www.ciism.com",
+        "client": "CIISM",
+        "category": "Logo",
+        "previews": ["ciism_logo.png", "ciism_logo_1.png"],
+        "slug": "ciism-logo",
+        "date": "1 March, 2021",
+        "description": "CIISM is an institute that upholds the value of integrity, professionalism, best practice, objectivity, accountability, discipline, leadership, transparency, competency, selflessness as we equipping our members with the highest international standards, knowledge, and capacity building that enhance them to gain competitive advantage in information and strategic management."
+    },
+    {
+        "header_img": "otechcup_logo.png",
+        "name": "OTechCup Logo",
+        "url": "www.otechcup.com",
+        "client": "Exfac Inc.",
+        "category": "Logo",
+        "previews": [],
+        "slug": "otechcup-logo",
+        "date": "23 November, 2022",
+        "description": "OTechCup is a community"
+    },
+    {
+        "header_img": "expowertechnology_logo.png",
+        "name": "Expower Technology Logo",
+        "url": "www.exfac.info",
+        "client": "Exfac Inc.",
+        "category": "Logo",
+        "previews": [
+            "expowertechnology_logo.png", "expowertechnology_logo_1.png"
+        ],
+        "slug": "expowertechnology-logo",
+        "date": "6 November, 2022",
+        "description": "Exfac formally known as Expower Technology is an emerging data technology based company that uses and develops technological products that use Big Data Analysis, Artificial Intelligence, Machine Learning algorithms and all other data technology algorithms to improve the economic and financial system by developing powerful strategic data ecosystem to improve standard of living Globally."
+    },
+    {
+        "header_img": "plominode_logo.png",
+        "name": "Plominode Logo",
+        "url": "www.plominode.com",
+        "client": "Exfac Inc.",
+        "category": "Logo",
+        "previews": ["plominode_logo.png", "plominode_logo_1.png"],
+        "slug": "plominode-logo",
+        "date": "12 August, 2021",
+        "description": "Plominode is a Unique Award-Winning all in one Game Show Series, which is also known as 'THE SMARTEST GAME SHOW SERIES' (S.G.S.S). Whereby the Smartest can Double and Increase their Cash Prize with each Point they obtain in each Episode and Win a Cash Price up to a Million Dollars or More base on the Total Number of Smartest in every Season."
+    },
+    {
+        "header_img": "exfac_video_3.png",
+        "name": "Exfac Video Intro",
+        "url": "www.youtube.com/watch?v=M77HenS92io&feature=shares",
+        "client": "Exfac Inc.",
+        "category": "Video",
+        "previews": [
+            "exfac_video.png", "exfac_video_1.png", "exfac_video_2.png", 
+            "exfac_video_3.png"
+        ],
+        "slug": "exfac-video-intro",
+        "date": "6 September, 2022",
+        "description": "Exfac is an emerging data technology based company that uses and develops technological products that use Big Data Analysis, Artificial Intelligence, Machine Learning algorithms and all other data technology algorithms to improve the economic and financial system by developing powerful strategic data ecosystem to improve standard of living Globally."
+    },
+    {
+        "header_img": "expowertechnology_video_3.png",
+        "name": "Expower Technology Video Intro",
+        "url": "www.youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
+        "client": "Exfac Inc.",
+        "category": "Video",
+        "previews": [
+            "expowertechnology_video_1.png", "expowertechnology_video_2.png", 
+            "expowertechnology_video_3.png", "expowertechnology_video.png"
+        ],
+        "slug": "expowertechnology-video-intro",
+        "date": "7 April, 2022",
+        "description": "Exfac formally known as Expower Technology is an emerging data technology based company that uses and develops technological products that use Big Data Analysis, Artificial Intelligence, Machine Learning algorithms and all other data technology algorithms to improve the economic and financial system by developing powerful strategic data ecosystem to improve standard of living Globally."
+    },
+    {
+        "header_img": "plominode_video_3.png",
+        "name": "Plominode Video Intro",
+        "url": "www.youtube.com/watch?v=cwGPLmFj9Os&feature=shares",
+        "client": "Exfac Inc.",
+        "category": "Video",
+        "previews": [
+            "plominode_video_1.png", "plominode_video_2.png",
+            "plominode_video_3.png", "plominode_video.png"
+        ],
+        "slug": "plominode-video-intro",
+        "date": "12 April, 2022",
+        "description": "Plominode is a Unique Award-Winning all in one Game Show Series, which is also known as 'THE SMARTEST GAME SHOW SERIES' (S.G.S.S). Whereby the Smartest can Double and Increase their Cash Prize with each Point they obtain in each Episode and Win a Cash Price up to a Million Dollars or More base on the Total Number of Smartest in every Season."
+    },
+    {
+        "header_img": "hgsp_video.png",
+        "name": "How to get Started on Plominode",
+        "url": "www.youtube.com/watch?v=DfSNP8-KNAI&feature=shares",
+        "client": "Exfac Inc.",
+        "category": "Video",
+        "previews": [
+            "hgsp_video.png", "hgsp_video_1.png", "hgsp_video_2.png", 
+            "hgsp_video_3.png"
+        ],
+        "slug": "how-to-get-started-on-plominode",
+        "date": "12 April, 2022",
+        "description": "Plominode is a Unique Award-Winning all in one Game Show Series, which is also known as 'THE SMARTEST GAME SHOW SERIES' (S.G.S.S). Whereby the Smartest can Double and Increase their Cash Prize with each Point they obtain in each Episode and Win a Cash Price up to a Million Dollars or More base on the Total Number of Smartest in every Season."
+    },
+    {
+        "header_img": "tgcp_video.png",
+        "name": "The Game Changer: Earn $200 Monthly Through Plominode (SEASON ONE)",
+        "url": "www.youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
+        "client": "Exfac Inc.",
+        "category": "Video",
+        "previews": [
+            "tgcp_video.png", "tgcp_video_1.png", "tgcp_video_2.png", 
+            "tgcp_video_3.png"
+        ],
+        "slug": "the-game-changer-plominode",
+        "date": "23 May, 2022",
+        "description": "Plominode is a Unique Award-Winning all in one Game Show Series, which is also known as 'THE SMARTEST GAME SHOW SERIES' (S.G.S.S). Whereby the Smartest can Double and Increase their Cash Prize with each Point they obtain in each Episode and Win a Cash Price up to a Million Dollars or More base on the Total Number of Smartest in every Season."
+    },
+    {
+        "header_img": "fcac_video.png",
+        "name": "Fellow and Competency Award",
+        "url": "www.youtube.com/watch?v=BMEzP61LELY&feature=shares",
+        "client": "CIISM",
+        "category": "Video",
+        "previews": ["fcac_video.png", "fcac_video_1.png", "fcac_video_2.png"],
+        "slug": "fellow-competency-award-ciism",
+        "date": "19 December, 2021",
+        "description": "CIISM is an institute that upholds the value of integrity, professionalism, best practice, objectivity, accountability, discipline, leadership, transparency, competency, selflessness as we equipping our members with the highest international standards, knowledge, and capacity building that enhance them to gain competitive advantage in information and strategic management."
+    },
+    {
+        "header_img": "mph_logo.png",
+        "name": "Mr. Potatoes Head Logo",
+        "url": "www.",
+        "client": "MPH",
+        "category": "Logo",
+        "previews": [],
+        "slug": "mph-logo",
+        "date": "7 January, 2023",
+        "description": "Mr. Potatoes Head is a youtube channel..."
+    },
+    {
+        "header_img": "dawgram.png",
+        "name": "Dawgram",
+        "url": "www.github.com/mr-o-josh/Dawgram",
+        "client": "OTechCup",
+        "category": "App",
+        "previews": [
+            "dawgram.png", "dawgram_2.png", "dawgram_3.png", "dawgram_4.png"
+        ],
+        "slug": "dawgram",
+        "date": "21 December, 2022",
+        "description": "Dawgram also known as Nonogram, Hanjie, Paint by Numbers, Picross, Griddlers and Pic-a-Pix and by various other names are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden pixel art-like picture. You must color in/fill in the grid according to the patterns of contiguous full cells given in the rows and columns. Full cells are shown as '@', unknown cells as 'Blank Cell' and cells you are sure are empty as 'X'. If a row or column is invalid (doesn't match the pattern) this will be marked with a 'Red Color', a solved row or column is marked with a 'Green Color', but it may still be wrong because of the other columns or rows."
+    },
+    {
+        "header_img": "aj_resume.png",
+        "name": "Adewale Joshua Resume",
+        "url": "www.adewalejoshua.tech",
+        "client": "OTechCup",
+        "category": "Art",
+        "previews": ["aj_resume.png", "aj_resume_1.png", "aj_resume_2.png"],
+        "slug": "aj-resume",
+        "date": "25 January, 2023",
+        "description": "OTechCup is a community"
+    },
+    {
+        "header_img": "ciism_cpeti_2023.png",
+        "name": "Continuing Professional Education Training (CPET) & Induction March 2023",
+        "url": "www.ciism.com",
+        "client": "CIISM",
+        "category": "Art",
+        "previews": [],
+        "slug": "ciism-cpeti-2023",
+        "date": "14 January, 2023",
+        "description": "CIISM is an institute that upholds the value of integrity, professionalism, best practice, objectivity, accountability, discipline, leadership, transparency, competency, selflessness as we equipping our members with the highest international standards, knowledge, and capacity building that enhance them to gain competitive advantage in information and strategic management."
+    },
+    {
+        "header_img": "ciism_cpeti_2023_1.png",
+        "name": "Continuing Professional Education Training (CPET) & Induction March 2023",
+        "url": "www.ciism.com",
+        "client": "CIISM",
+        "category": "Art",
+        "previews": [
+            "ciism_cpeti_2023_1.png", "ciism_cpeti_2023_2.png", 
+            "ciism_cpeti_2023_3.png"
+        ],
+        "slug": "ciism-cpeti-2023-1",
+        "date": "6 January, 2023",
+        "description": "CIISM is an institute that upholds the value of integrity, professionalism, best practice, objectivity, accountability, discipline, leadership, transparency, competency, selflessness as we equipping our members with the highest international standards, knowledge, and capacity building that enhance them to gain competitive advantage in information and strategic management."
+    },
+    {
+        "header_img": "ebvfoods_val_2023.png",
+        "name": "EBV Foods 10% Valentine Discount 2023",
+        "url": "www.adewalejoshua.tech",
+        "client": "EBV Foods",
+        "category": "Art",
+        "previews": [],
+        "slug": "ebvfoods-val-2023",
+        "date": "20 January, 2023",
+        "description": "EBV Foods is a Nigerian fast-food chain and franchise that specializes in all manner of foods recipes, especially fried chicken."
+    }
+]

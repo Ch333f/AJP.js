@@ -1,0 +1,51 @@
+/**
+*!/usr/bin/env css
+* -*- coding: utf-8 -*-
+* Adewale Joshua Portfolio (AJP) App
+*/
+
+
+/**
+* author: OTechCup
+* copyright: Copyright 2022 - 2022, Exfac
+* credits: ["Mr. O."]
+* license: OTechCup
+* version: v0.1
+* maintainer: OTechCup
+* email: help.otechcup@gmail.com
+* status: production
+*/
+
+
+/* import modules */
+
+
+@media (max-width: 768px) {
+    #header.header-top {
+        height: 90px !important;
+    }
+
+    #header.header-top h1 {
+        font-size: 26px !important;
+    }
+
+    section {
+        top: 120px !important;
+    }
+
+    section.section-show {
+        top: 115px !important;
+    }
+
+    .fs-27p {
+        font-size: 27px;
+    }
+
+    .header-logo {
+        margin-right: unset !important;
+    }
+
+    .about-me .section-title p {
+        font-size: 28px !important;
+    }
+}
