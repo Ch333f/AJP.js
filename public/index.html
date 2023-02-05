@@ -1,5 +1,5 @@
 <!-- 
-*!/usr/bin/env html
+*!/usr/bin/env
 * -*- coding: utf-8 -*-
 * Adewale Joshua Portfolio (AJP) App 
 -->
@@ -7,20 +7,18 @@
 
 <!-- 
 * author: OTechCup
-* copyright: Copyright 2022 - 2022, Exfac
-* credits: ["Mr. O."]
-* license: OTechCup
-* version: v0.1
+* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* credits: ["Mr. O"]
+* version: process.env.AJP_VERSION
 * maintainer: OTechCup
-* email: help.otechcup@gmail.com
-* status: production 
+* email: support@exfac.info
+* status: process.env.AJP_ENVIRONMENT_STATUS 
 -->
 
 
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
@@ -29,47 +27,55 @@
     <meta name="apple-mobile-web-app-title" content="OTechCup" />
     <meta name="application-name" content="OTechCup" />
     <meta name="msapplication-TileColor" content="#9f00a7" />
-    <meta name="msapplication-TileImage" content="%PUBLIC_URL%/static/assets/img/fav-touch/mstile-144x144.png" />
+    <meta name="msapplication-TileImage" content="%PUBLIC_URL%/static/assets/img/favicon/mstile-144x144.png" />
     <meta name="theme-color" content="#ffffff" />
 
 
-    <title>OTechCup | Home</title>
+    <title>
+      OTechCup | Home
+    </title>
 
 
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/static/assets/img/fav-touch/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/static/assets/img/fav-touch/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="194x194" href="%PUBLIC_URL%/static/assets/img/fav-touch/favicon-194x194.png" />
-    <link rel="icon" type="image/png" sizes="192x192" 
-        href="%PUBLIC_URL%/static/assets/img/fav-touch/android-chrome-192x192.png" 
-    />
-    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/static/assets/img/fav-touch/favicon-16x16.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/static/assets/img/fav-touch/site.webmanifest" />
-    <link rel="mask-icon" href="%PUBLIC_URL%/static/assets/img/fav-touch/safari-pinned-tab.svg" color="#9f00a7" />
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/static/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/static/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="194x194" href="%PUBLIC_URL%/static/assets/img/favicon/favicon-194x194.png" />
+    <link rel="icon" type="image/png" sizes="192x192"
+      href="%PUBLIC_URL%/static/assets/img/favicon/android-chrome-192x192.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/static/assets/img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/static/assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="%PUBLIC_URL%/static/assets/img/favicon/safari-pinned-tab.svg" color="#9f00a7" />
+
 
     <!-- Global CSS -->
     <link rel="stylesheet" href="%PUBLIC_URL%/static/vendors/glightbox/css/glightbox.min.css" />
     <link rel="stylesheet" href="%PUBLIC_URL%/static/vendors/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="%PUBLIC_URL%/static/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="%PUBLIC_URL%/static/assets/css/animations/blinking.css" />
-    <link rel="stylesheet" href="%PUBLIC_URL%/static/assets/css/Preloader.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/static/assets/css/preloader.css" />
     <link rel="stylesheet" href="%PUBLIC_URL%/static/assets/css/App.css" />
-</head>
+  </head>
 
-<body>
+
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+
+
     <div class="preloader">
-        <div class="terminal-msg blinking-animation">
-            Scanning for update...
-        </div>
+      <div class="terminal-msg blinking-animation">
+        Scanning for update...
+      </div>
 
-        <pre class="terminal-shell-prompt bpe-animation">
-            adewalejoshua@otechcup:~$
-        </pre>
+      <pre class="terminal-shell-prompt bpe-animation">
+        adewalejoshua@otechcup:~$
+      </pre>
     </div>
 
 
     <script src="%PUBLIC_URL%/static/assets/js/jquery-3.5.1.min.js"></script>
-    <script async defer src="%PUBLIC_URL%/static/assets/js/Preloader.js"></script>
+    <script async defer src="%PUBLIC_URL%/static/assets/js/preloader.js"></script>
 
 
     <div id="root"></div>
@@ -79,6 +85,5 @@
     <script src="%PUBLIC_URL%/static/vendors/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="%PUBLIC_URL%/static/vendors/swiper/swiper-bundle.min.js"></script>
     <script type="module" src="%PUBLIC_URL%/static/assets/js/App.js"></script>
-</body>
-
+  </body>
 </html>
