@@ -1,5 +1,5 @@
 /**
-*!/usr/bin/env react
+*!/usr/bin/env node
 * -*- coding: utf-8 -*-
 * Adewale Joshua Portfolio (AJP) App
 */
@@ -8,12 +8,11 @@
 /**
 * author: OTechCup
 * copyright: Copyright 2022 - 2022, OTechCup
-* credits: ["Mr. O."]
-* license: OTechCup
-* version: v0.1
+* credits: ["Mr. O"]
+* version: process.env.AJP_VERSION
 * maintainer: OTechCup
-* email: help.otechcup@gmail.com
-* status: production
+* email: support@exfac.info
+* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -21,8 +20,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import InitRoutes from "./Routes.jsx";
-import reportWebVitals from "./reportWebVitals";
+import InitRoutes from "./InitRoutes.jsx";
+import reportWebVitals from "./reportWebVitals.js";
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));

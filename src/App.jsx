@@ -1,5 +1,5 @@
 /**
-*!/usr/bin/env react
+*!/usr/bin/env node
 * -*- coding: utf-8 -*-
 * Adewale Joshua Portfolio (AJP) App
 */
@@ -7,44 +7,29 @@
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - 2022, Exfac
-* credits: ["Mr. O."]
-* license: OTechCup
-* version: v0.1
+* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* credits: ["Mr. O"]
+* version: process.env.AJP_VERSION
 * maintainer: OTechCup
-* email: help.otechcup@gmail.com
-* status: production
+* email: support@exfac.info
+* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
 // import modules
 import React from "react";
+import { Routes, Route } from "react-router-dom";
 
-import Blog from "./components/Blog.jsx";
-import Resume from "./components/Resume.jsx";
-import Contact from "./components/Contact.jsx";
-import Portfolio from "./components/Portfolio.jsx";
-import Services from "./components/Services.jsx";
-import About from "./components/About.jsx";
-import Footer from "./components/layout/Footer.jsx";
-import Header from "./components/layout/Header.jsx";
-import Background from "./components/layout/Background.jsx";
-import "./static/assets/js/App.js";
+import PortfolioDetail from "./components/PortfolioDetail.jsx";
+import Index from "./components/Index.jsx";
 
 
 function App() {
     return (
-        <>
-            <Background />
-            <Header />
-            <About />
-            <Resume />
-            <Services />
-            <Portfolio />
-            <Contact />
-            <Blog />
-            <Footer />
-        </>
+        <Routes>
+            <Route path="/" element={<Index />} />
+            <Route path="/portfolio/portfolio-detail/:slug" element={<PortfolioDetail />}/>
+        </Routes>
     );
 };
 
