@@ -10,7 +10,17 @@ jobs:
     steps:
       - name: Get latest code
         uses: actions/checkout@v3
-        
+
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Build Project
+        run: |
+          npm install
+          npm run build
+
       - name: Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
@@ -26,4 +36,3 @@ jobs:
             **/public/**
             **/package.json*
             **/package-lock.json*
-            
