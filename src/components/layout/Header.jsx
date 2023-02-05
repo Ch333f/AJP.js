@@ -1,5 +1,5 @@
 /**
-*!/usr/bin/env react
+*!/usr/bin/env node
 * -*- coding: utf-8 -*-
 * Adewale Joshua Portfolio (AJP) App
 */
@@ -7,13 +7,12 @@
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - 2022, Exfac
-* credits: ["Mr. O."]
-* license: OTechCup
-* version: v0.1
+* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* credits: ["Mr. O"]
+* version: process.env.AJP_VERSION
 * maintainer: OTechCup
-* email: help.otechcup@gmail.com
-* status: production
+* email: support@exfac.info
+* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -50,7 +49,7 @@ function Header() {
     return (
         <header id="header">
             <div className="container">
-                <a href="http://www.exfac.info/products/otechcup" 
+                <a href="http://otechcup.exfac.info" 
                         className="mr-auto header-logo">
                     <img
                         src={otechcup_logo_sm}

@@ -13,7 +13,7 @@
     {
         "header_img": "ajp.png",
         "name": "Adewale Joshua Portfolio",
-        "url": "www.adewalejoshua.tech",
+        "url": "adewalejoshua.tech",
         "client": "OTechCup",
         "category": "Web",
         "previews": ["ajp.png", "ajp_1.png"],
@@ -24,7 +24,7 @@
     {
         "header_img": "ciism.png",
         "name": "Chartered Institute of Information and Strategy Management",
-        "url": "www.ciism.com",
+        "url": "ciism.com",
         "client": "CIISM",
         "category": "Web",
         "previews": [
@@ -38,7 +38,7 @@
     {
         "header_img": "aem.png",
         "name": "Antrim Electrical & Mechanical Engineers Ltd",
-        "url": "www.aem.phoenixitng.com",
+        "url": "aem.phoenixitng.com",
         "client": "AEM",
         "category": "Web",
         "previews": [
@@ -51,7 +51,7 @@
     {
         "header_img": "exfac_logo.png",
         "name": "Exfac Logo",
-        "url": "www.exfac.info",
+        "url": "exfac.info",
         "client": "Exfac Inc.",
         "category": "Logo",
         "previews": ["exfac_logo_1.png", "exfac_logo.png"],
@@ -62,7 +62,7 @@
     {
         "header_img": "ciism_logo.png",
         "name": "Chartered Institute of Information and Strategy Management Logo",
-        "url": "www.ciism.com",
+        "url": "ciism.com",
         "client": "CIISM",
         "category": "Logo",
         "previews": ["ciism_logo.png", "ciism_logo_1.png"],
@@ -73,7 +73,7 @@
     {
         "header_img": "otechcup_logo.png",
         "name": "OTechCup Logo",
-        "url": "www.otechcup.com",
+        "url": "otechcup.exfac.info",
         "client": "Exfac Inc.",
         "category": "Logo",
         "previews": [],
@@ -84,7 +84,7 @@
     {
         "header_img": "expowertechnology_logo.png",
         "name": "Expower Technology Logo",
-        "url": "www.exfac.info",
+        "url": "exfac.info",
         "client": "Exfac Inc.",
         "category": "Logo",
         "previews": [
@@ -97,7 +97,7 @@
     {
         "header_img": "plominode_logo.png",
         "name": "Plominode Logo",
-        "url": "www.plominode.com",
+        "url": "plominode.exfac.info",
         "client": "Exfac Inc.",
         "category": "Logo",
         "previews": ["plominode_logo.png", "plominode_logo_1.png"],
@@ -108,7 +108,7 @@
     {
         "header_img": "exfac_video_3.png",
         "name": "Exfac Video Intro",
-        "url": "www.youtube.com/watch?v=M77HenS92io&feature=shares",
+        "url": "youtube.com/watch?v=M77HenS92io&feature=shares",
         "client": "Exfac Inc.",
         "category": "Video",
         "previews": [
@@ -122,7 +122,7 @@
     {
         "header_img": "expowertechnology_video_3.png",
         "name": "Expower Technology Video Intro",
-        "url": "www.youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
+        "url": "youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
         "client": "Exfac Inc.",
         "category": "Video",
         "previews": [
@@ -136,7 +136,7 @@
     {
         "header_img": "plominode_video_3.png",
         "name": "Plominode Video Intro",
-        "url": "www.youtube.com/watch?v=cwGPLmFj9Os&feature=shares",
+        "url": "youtube.com/watch?v=cwGPLmFj9Os&feature=shares",
         "client": "Exfac Inc.",
         "category": "Video",
         "previews": [
@@ -150,7 +150,7 @@
     {
         "header_img": "hgsp_video.png",
         "name": "How to get Started on Plominode",
-        "url": "www.youtube.com/watch?v=DfSNP8-KNAI&feature=shares",
+        "url": "youtube.com/watch?v=DfSNP8-KNAI&feature=shares",
         "client": "Exfac Inc.",
         "category": "Video",
         "previews": [
@@ -164,7 +164,7 @@
     {
         "header_img": "tgcp_video.png",
         "name": "The Game Changer: Earn $200 Monthly Through Plominode (SEASON ONE)",
-        "url": "www.youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
+        "url": "youtube.com/watch?v=4cNTSYPBtlw&feature=shares",
         "client": "Exfac Inc.",
         "category": "Video",
         "previews": [
@@ -178,7 +178,7 @@
     {
         "header_img": "fcac_video.png",
         "name": "Fellow and Competency Award",
-        "url": "www.youtube.com/watch?v=BMEzP61LELY&feature=shares",
+        "url": "youtube.com/watch?v=BMEzP61LELY&feature=shares",
         "client": "CIISM",
         "category": "Video",
         "previews": ["fcac_video.png", "fcac_video_1.png", "fcac_video_2.png"],
@@ -189,7 +189,7 @@
     {
         "header_img": "mph_logo.png",
         "name": "Mr. Potatoes Head Logo",
-        "url": "www.",
+        "url": "adewalejoshua.tech",
         "client": "MPH",
         "category": "Logo",
         "previews": [],
@@ -200,7 +200,7 @@
     {
         "header_img": "dawgram.png",
         "name": "Dawgram",
-        "url": "www.github.com/mr-o-josh/Dawgram",
+        "url": "github.com/mr-o-josh/Dawgram",
         "client": "OTechCup",
         "category": "App",
         "previews": [
@@ -213,7 +213,7 @@
     {
         "header_img": "aj_resume.png",
         "name": "Adewale Joshua Resume",
-        "url": "www.adewalejoshua.tech",
+        "url": "adewalejoshua.tech",
         "client": "OTechCup",
         "category": "Art",
         "previews": ["aj_resume.png", "aj_resume_1.png", "aj_resume_2.png"],
@@ -224,7 +224,7 @@
     {
         "header_img": "ciism_cpeti_2023.png",
         "name": "Continuing Professional Education Training (CPET) & Induction March 2023",
-        "url": "www.ciism.com",
+        "url": "ciism.com",
         "client": "CIISM",
         "category": "Art",
         "previews": [],
@@ -235,7 +235,7 @@
     {
         "header_img": "ciism_cpeti_2023_1.png",
         "name": "Continuing Professional Education Training (CPET) & Induction March 2023",
-        "url": "www.ciism.com",
+        "url": "ciism.com",
         "client": "CIISM",
         "category": "Art",
         "previews": [
@@ -249,7 +249,7 @@
     {
         "header_img": "ebvfoods_val_2023.png",
         "name": "EBV Foods 10% Valentine Discount 2023",
-        "url": "www.adewalejoshua.tech",
+        "url": "adewalejoshua.tech",
         "client": "EBV Foods",
         "category": "Art",
         "previews": [],
