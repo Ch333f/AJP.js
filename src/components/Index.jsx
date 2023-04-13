@@ -35,13 +35,21 @@ function Index() {
     return (
         <>
             <Background />
+
             <Header />
+            
             <About />
+            
             <Resume />
+            
             <Services />
+            
             <Portfolio />
+            
             <Contact />
+            
             <Blog />
+            
             <Footer />
         </>
     );

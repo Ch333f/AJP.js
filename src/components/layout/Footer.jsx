@@ -31,7 +31,7 @@ function Footer() {
             
             . All Rights Reserved |
             
-            &#8204;<a href="http://exfac.info" target="_blank" 
+            &#8204;<a href="https://exfac.info" target={"_blank" }
                     rel="noopener noreferrer">
                 Exfac Inc.
             </a>
