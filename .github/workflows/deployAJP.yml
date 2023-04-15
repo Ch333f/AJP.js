@@ -1,0 +1,29 @@
+name: Publish AJP to Production Server on Push
+on:
+  push:
+    branches:
+      - production
+jobs:
+  web-deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get latest code
+        uses: actions/checkout@v3
+        
+      - name: Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: ${{ secrets.AJP_FTP_SERVER }}
+          username: ${{ secrets.AJP_FTP_SERVER_USERNAME }}
+          password: ${{ secrets.AJP_FTP_SERVER_PASSWORD }}
+          port: 21
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/src/**
+            **/public/**
+            **/package.json*
+            **/package-lock.json*
+            
