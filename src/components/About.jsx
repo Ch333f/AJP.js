@@ -238,7 +238,7 @@ function About() {
 
                             <span 
                                 data-purecounter-start="0" 
-                                data-purecounter-end="3"
+                                data-purecounter-end="24"
                                 data-purecounter-duration="1"
                                 className="purecounter">
                             </span>
