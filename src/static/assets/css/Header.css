@@ -109,8 +109,8 @@
     font-size: 25px;
 }
 
-#header .social-links .instagram, 
-#header .social-links .facebook {
+#header .social-links .github, 
+#header .social-links .linkedin {
     font-size: 25px;
     background: #00FF00;
     color: #000000;
@@ -118,8 +118,8 @@
     height: 60px;
 }
 
-#header .social-links .instagram:hover,
-#header .social-links .facebook:hover {
+#header .social-links .github:hover,
+#header .social-links .linkedin:hover {
     background: #ffffff1a;
     color: #fff;
     width: 50px;

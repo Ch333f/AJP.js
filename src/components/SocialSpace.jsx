@@ -29,10 +29,10 @@ function SocialSpace() {
 				<i className="bi bi-whatsapp"></i>
 			</a>
 
-			{/* <a href="https://linkedin.com/in/mr-o" target="_blank"
+			<a href="https://linkedin.com/in/ade-josh" target="_blank"
 				rel="noopener noreferrer" className="linkedin">
 				<i className="bi bi-linkedin"></i>
-			</a> */}
+			</a>
 
 			<a href="https://instagram.com/otechcup" target="_blank"
 				rel="noopener noreferrer" className="instagram"
