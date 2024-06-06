@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env node
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -29,7 +28,7 @@ function SocialSpace() {
 				<i className="bi bi-whatsapp"></i>
 			</a>
 
-			<a href="https://linkedin.com/in/ade-josh" target="_blank"
+			<a href="https://linkedin.com/in/otechcupp" target="_blank"
 				rel="noopener noreferrer" className="linkedin">
 				<i className="bi bi-linkedin"></i>
 			</a>
@@ -40,13 +39,13 @@ function SocialSpace() {
 				<i className="bi bi-instagram"></i>
 			</a>
 
-			<a href="https://github.com/mr-o-josh" target="_blank"
+			<a href="https://github.com/otechcup" target="_blank"
 				rel="noopener noreferrer" className="github"
 			>
 				<i className="bi bi-github"></i>
 			</a>
 
-			<a href="https://facebook.com/Adewale.O.Josh" target="_blank"
+			<a href="https://facebook.com/otechcupp" target="_blank"
 				rel="noopener noreferrer" className="facebook"
 			>
 				<i className="bi bi-facebook"></i>
