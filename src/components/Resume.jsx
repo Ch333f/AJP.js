@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env node
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -78,7 +77,7 @@ function Resume() {
                   </li>
 
                   <li>
-                    adewalejoshua13@gmail.com
+                    adewale.o.joshua@gmail.com
                   </li>
                 </ul>
               </p>
@@ -123,6 +122,120 @@ function Resume() {
             <h3 className="resume-title">
               Professional Experience
             </h3>
+
+            <div className="resume-item">
+              <h4>
+                IT Professional
+              </h4>
+
+              <h5>
+                2024 - Present
+              </h5>
+
+              <p>
+                <em>
+                  Foothold Academy
+                </em>
+              </p>
+
+              <p>
+                <ul>
+                  <li>
+                    Testing, installing and repairing hardware and software.
+                  </li>
+
+                  <li>
+                    Maintaining computer systems.
+                  </li>
+
+                  <li>
+                    And many more.
+                  </li>
+                </ul>
+              </p>
+            </div>
+
+            <div className="resume-item">
+              <h4>
+                Software Engineer
+              </h4>
+
+              <h5>
+                2023 - 2024
+              </h5>
+
+              <p>
+                <em>
+                  AveraMaximizer Inc.
+                </em>
+              </p>
+
+              <p>
+                <ul>
+                  <li>
+                    Create in-house mobile, web, and desktop applications.
+                  </li>
+
+                  <li>
+                    Maintaining, updating, debugging and improve existing clients software.
+                  </li>
+
+                  <li>
+                    Work closely with other team members of the development team and provide counsel on all aspects of the
+                    project.
+                  </li>
+
+                  <li>
+                    Perform code reviews.
+                  </li>
+
+                  <li>
+                    Coaching junior developers.
+                  </li>
+                </ul>
+              </p>
+            </div>
+
+            <div className="resume-item">
+              <h4>
+                Full Stack Developer
+              </h4>
+
+              <h5>
+                2023 - 2024
+              </h5>
+
+              <p>
+                <em>
+                  Eduglobe Consultants
+                </em>
+              </p>
+
+              <p>
+                <ul>
+                  <li>
+                    Create in-house mobile, web, and desktop applications.
+                  </li>
+
+                  <li>
+                    Maintaining, updating, debugging and improve existing clients software.
+                  </li>
+
+                  <li>
+                    Work closely with other team members of the development team and provide counsel on all aspects of the
+                    project.
+                  </li>
+
+                  <li>
+                    Perform code reviews.
+                  </li>
+
+                  <li>
+                    Coaching junior developers.
+                  </li>
+                </ul>
+              </p>
+            </div>
 
             <div className="resume-item">
               <h4>
@@ -233,47 +346,6 @@ function Resume() {
 
             <div className="resume-item">
               <h4>
-                IT Professional
-              </h4>
-
-              <h5>
-                2018 - Present
-              </h5>
-
-              <p>
-                <em>
-                  Chartered Institute of Information and Strategy Management
-                </em>
-              </p>
-
-              <p>
-                <ul>
-                  <li>
-                    Developed numerous marketing programs (logos, brochures, infographics, presentations, and advertisements)
-                    etc.
-                  </li>
-
-                  <li>
-                    Managed up to 5 or even more projects or tasks at a given time while under pressure.
-                  </li>
-
-                  <li>
-                    Maintaining computer networks and systems.
-                  </li>
-
-                  <li>
-                    Building, testing, installing and repairing hardware and software.
-                  </li>
-
-                  <li>
-                    Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design.
-                  </li>
-                </ul>
-              </p>
-            </div>
-
-            <div className="resume-item">
-              <h4>
                 Graphic Design Specialist
               </h4>
 
@@ -308,6 +380,47 @@ function Resume() {
                   <li>
                     Incorporates graphics into advertising and marketing campaigns, films, packaging and other promotional
                     materials.
+                  </li>
+                </ul>
+              </p>
+            </div>
+
+            <div className="resume-item">
+              <h4>
+                IT Professional
+              </h4>
+
+              <h5>
+                2018 - Present
+              </h5>
+
+              <p>
+                <em>
+                  Chartered Institute of Information and Strategy Management
+                </em>
+              </p>
+
+              <p>
+                <ul>
+                  <li>
+                    Developed numerous marketing programs (logos, brochures, infographics, presentations, and advertisements)
+                    etc.
+                  </li>
+
+                  <li>
+                    Managed up to 5 or even more projects or tasks at a given time while under pressure.
+                  </li>
+
+                  <li>
+                    Maintaining computer networks and systems.
+                  </li>
+
+                  <li>
+                    Building, testing, installing and repairing hardware and software.
+                  </li>
+
+                  <li>
+                    Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design.
                   </li>
                 </ul>
               </p>

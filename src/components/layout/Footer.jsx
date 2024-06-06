@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env node
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -23,20 +22,18 @@ import "../../static/assets/css/Footer.css";
 
 
 function Footer() {
-    const current_year = new Date().getFullYear();
+  const current_year = new Date().getFullYear();
 
-    return (
-        <div className="credits">
-            Copyright © 2023 - {current_year}
-            
-            . All Rights Reserved |
-            
-            &#8204;<a href="https://exfac.info" target={"_blank" }
-                    rel="noopener noreferrer">
-                Exfac Inc.
-            </a>
-        </div>
-    );
+  return (
+    <div className="credits">
+      © 2023 - {current_year} All Rights Reserved |
+
+      &#8204;<a href="https://exfac.info" target={"_blank"}
+        rel="noopener noreferrer">
+        Exfac
+      </a>
+    </div>
+  );
 };
 
 

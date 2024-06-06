@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env node
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -24,7 +23,7 @@ import { on, select, scrollto } from "./App.js";
 * Scrool with ofset on links with a class name .scrollto
 */
 function navmenueToggleSwitcher() {
-    let header_logo = select("#header .header-logo");
+    let header_logo = select("#home .header-logo");
 
     /**
     * Activate/show sections on load with hash links
@@ -35,10 +34,10 @@ function navmenueToggleSwitcher() {
         let initial_nav = select(hash_link);
 
         if (initial_nav) {
-            let header = select("#header");
+            let header = select("#home");
             let navlinks = select("#navbar .nav-link", true);
 
-            if (hash_link !== "#header") {
+            if (hash_link !== "#home") {
                 header.classList.add("header-top");
                 header_logo.classList.add("d-none");
 
@@ -94,7 +93,7 @@ function navmenueToggleSwitcher() {
 
         if (section) {
             let navbar = select("#navbar");
-            let header = select("#header");
+            let header = select("#home");
             let sections = select("section", true);
             let navlinks = select("#navbar .nav-link", true);
 
@@ -113,7 +112,7 @@ function navmenueToggleSwitcher() {
                 navbarToggle.classList.toggle("bi-x");
             };
 
-            if (this.hash === "#header") {
+            if (this.hash === "#home") {
                 header.classList.remove("header-top");
                 header_logo.classList.remove("d-none");
 

@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env node
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -77,7 +76,7 @@ function Contact() {
                             </h3>
                             
                             <p>
-                                adewalejoshua13@gmail.com
+                                adewale.o.joshua@gmail.com
                                 
                                 <br />
                                 

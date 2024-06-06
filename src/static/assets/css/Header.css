@@ -1,18 +1,17 @@
 /**
 *!/usr/bin/env
 * -*- coding: utf-8 -*-
-* Adewale Joshua Portfolio (AJP) App
+* Adewale Joshua Portfolio (AJP)
 */
 
 
 /**
 * author: OTechCup
-* copyright: Copyright 2022 - new Date().getFullYear(), Exfac Inc.
+* copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
 * credits: ["Mr. O"]
-* version: process.env.AJP_VERSION
+* version: v0.1.0
 * maintainer: OTechCup
 * email: support@exfac.info
-* status: process.env.AJP_ENVIRONMENT_STATUS
 */
 
 
@@ -22,7 +21,7 @@
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-#header {
+.header {
     transition: ease-in-out 0.3s;
     position: relative;
     height: 100vh;
@@ -32,11 +31,11 @@
     overflow-y: auto;
 }
 
-#header * {
+.header * {
     transition: ease-in-out 0.3s;
 }
 
-#header h1 {
+.header h1 {
     font-size: 48px;
     margin: 0;
     padding: 0;
@@ -45,49 +44,49 @@
     font-family: "Poppins", sans-serif;;
 }
 
-#header h1 a,
-#header h1 a:hover {
+.header h1 a,
+.header h1 a:hover {
     color: #fff;
     line-height: 1;
     display: inline-block;
 }
 
-#header h2 {
+.header h2 {
     font-size: 24px;
     margin-top: 55px;
     color: #ffffffe0;
 }
 
-#header h2 span {
+.header h2 span {
     color: #00FF00;
     border-bottom: 2px solid #00FF00;
     padding-bottom: 6px;
     font-weight: 600;
 }
 
-#header h2 span:hover {
+.header h2 span:hover {
     color: #fff;
 }
 
-#header h2 .cd-headline {
+.header h2 .cd-headline {
     font-size: 33px;
 }
 
-#header h2 .cd-headline .cd-words-wrapper {
+.header h2 .cd-headline .cd-words-wrapper {
     width: unset !important;
 }
 
-#header img {
+.header img {
     padding: 0;
     margin: 0;
 }
 
-#header .social-links {
+.header .social-links {
     margin-top: 50px;
     display: flex;
 }
 
-#header .social-links a {
+.header .social-links a {
     font-size: 20px;
     display: flex;
     justify-content: center;
@@ -101,7 +100,7 @@
     height: 50px;
 }
 
-#header .social-links a:hover {
+.header .social-links a:hover {
     background: #00FF00;
     color: #000000;
     width: 60px;
@@ -109,8 +108,8 @@
     font-size: 25px;
 }
 
-#header .social-links .github, 
-#header .social-links .linkedin {
+.header .social-links .github, 
+.header .social-links .linkedin {
     font-size: 25px;
     background: #00FF00;
     color: #000000;
@@ -118,8 +117,8 @@
     height: 60px;
 }
 
-#header .social-links .github:hover,
-#header .social-links .linkedin:hover {
+.header .social-links .github:hover,
+.header .social-links .linkedin:hover {
     background: #ffffff1a;
     color: #fff;
     width: 50px;
@@ -128,7 +127,7 @@
 }
 
 /* Header Top */
-#header.header-top {
+.header.header-top {
     height: 100px;
     position: fixed;
     left: 0;
@@ -137,26 +136,26 @@
     background: #000000e6;
 }
 
-#header.header-top .social-links,
-#header.header-top h2 {
+.header.header-top .social-links,
+.header.header-top h2 {
     display: none;
 }
 
-#header.header-top h1 {
+.header.header-top h1 {
     margin-right: auto;
     font-size: 36px;
 }
 
-#header.header-top .container {
+.header.header-top .container {
     display: flex;
     align-items: center;
 }
 
-#header.header-top .navbar {
+.header.header-top .navbar {
     margin: 0;
 }
 
-#header #adewale {
+.header #adewale {
     background-image:
         linear-gradient(
             to right, 

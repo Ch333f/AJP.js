@@ -1,0 +1,35 @@
+#!/usr/bin/env
+# -*- coding: utf-8 -*-
+# Adewale Joshua Portfolio (AJP) 
+
+
+# author: OTechCup
+# copyright: &copy; 2022 - new Date().getFullYear() All Rights Reserved | Exfac
+# credits: ["Mr. O"]
+# version: Beta v0.1.0
+# maintainer: OTechCup
+# email: support@exfac.info
+
+
+main:
+  - primary:
+    - https://bootstrapmade.com/personal-free-resume-bootstrap-template/#download
+
+
+  - secondary:
+    - Search for sites that make use of the primary template on the web thats has blog page
+    - https://github.com/Venkateeshh/Portfolio-Website (readme)
+    - https://akashrajpurohit.com/
+    - https://alejandro-gomez.vercel.app/#work-experience
+    - https://vivek9patel.github.io/
+    - https://sumonta056.github.io/
+    - https://multikitty.onrender.com/
+
+
+account:
+  - primary:
+    - 
+  
+  
+  - secondary:
+    -
