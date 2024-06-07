@@ -2,7 +2,7 @@ name: Publish AJP to Production Server on Push
 on:
   push:
     branches:
-      - production
+      - production-build
 jobs:
   web-deploy:
     name: Deploy
