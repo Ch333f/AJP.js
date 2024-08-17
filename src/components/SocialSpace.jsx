@@ -33,19 +33,19 @@ function SocialSpace() {
 				<i className="bi bi-linkedin"></i>
 			</a>
 
-			<a href="https://instagram.com/otechcup" target="_blank"
+			<a href="https://instagram.com/Ch33333f" target="_blank"
 				rel="noopener noreferrer" className="instagram"
 			>
 				<i className="bi bi-instagram"></i>
 			</a>
 
-			<a href="https://github.com/otechcup" target="_blank"
+			<a href="https://github.com/Ch333f" target="_blank"
 				rel="noopener noreferrer" className="github"
 			>
 				<i className="bi bi-github"></i>
 			</a>
 
-			<a href="https://facebook.com/otechcupp" target="_blank"
+			<a href="https://facebook.com/Ch3333f" target="_blank"
 				rel="noopener noreferrer" className="facebook"
 			>
 				<i className="bi bi-facebook"></i>
