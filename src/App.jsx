@@ -26,8 +26,8 @@ import Index from "./components/Index.jsx";
 function App() {
     return (
         <Routes>
-            <Route path="/" element={<Index />} />
-            <Route path="/portfolio/portfolio-detail/:slug" element={<PortfolioDetail />}/>
+            <Route path="/AJP.js/" element={<Index />} />
+            <Route path="/AJP.js/portfolio/portfolio-detail/:slug" element={<PortfolioDetail />}/>
         </Routes>
     );
 };
