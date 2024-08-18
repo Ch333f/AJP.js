@@ -113,7 +113,7 @@ function Portfolio() {
                                                 <i className="bx bx-plus"></i>
                                             </a>
                                             
-                                            <Link to={"/portfolio/portfolio-detail/" + work.slug}
+                                            <Link to={"/AJP.js/portfolio/portfolio-detail/" + work.slug}
                                                     title="Portfolio Detail"
                                                     data-gallery="portfolioDetailsGallery"
                                                     data-glightbox="type: external"
