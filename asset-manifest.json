@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AJP.js/static/css/main.0f14eff2.css",
-    "main.js": "/AJP.js/static/js/main.bd4e92f3.js",
+    "main.js": "/AJP.js/static/js/main.3324e8fa.js",
     "static/js/787.bd9f25fd.chunk.js": "/AJP.js/static/js/787.bd9f25fd.chunk.js",
     "static/media/boxicons.svg": "/AJP.js/static/media/boxicons.61829f134e586c0c9e89.svg",
     "static/media/remixicon.svg?t=1590207869815": "/AJP.js/static/media/remixicon.1664a258a7e7714f6f8d.svg",
@@ -93,11 +93,11 @@
     "static/media/otechcup-logo-sm.png": "/AJP.js/static/media/otechcup-logo-sm.7efc9500a41d008807a4.png",
     "index.html": "/AJP.js/index.html",
     "main.0f14eff2.css.map": "/AJP.js/static/css/main.0f14eff2.css.map",
-    "main.bd4e92f3.js.map": "/AJP.js/static/js/main.bd4e92f3.js.map",
+    "main.3324e8fa.js.map": "/AJP.js/static/js/main.3324e8fa.js.map",
     "787.bd9f25fd.chunk.js.map": "/AJP.js/static/js/787.bd9f25fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f14eff2.css",
-    "static/js/main.bd4e92f3.js"
+    "static/js/main.3324e8fa.js"
   ]
 }
